@@ -20,5 +20,5 @@ request.onsuccess = function(e) {
 };
 
 function checkDatabase() {
-    const transaction = db.transaction(["transaction", "readwrite"]);
+    const transaction = db.transaction(["transaction"], "readwrite");
 }
