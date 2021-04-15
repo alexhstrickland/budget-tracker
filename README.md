@@ -23,6 +23,10 @@
   ## Usage
   Please enter expenses into the field and then click 'subtract funds'. For deposits, enter your amount into the field and click 'add funds'.
 
+    ![budget-tracker](public/assets/images/screenshot.png)
+
+    [Deployed Application](https://budget----tracker.herokuapp.com/)
+
   ## License
   This project is covered under the ISC license. Visit the following link for more information on this license: [ISC](https://opensource.org/licenses/ISC)
 
